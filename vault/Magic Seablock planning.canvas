@@ -1,0 +1,23 @@
+{
+	"nodes":[
+		{"id":"51870c3c176547c8","type":"text","text":"Lapis","x":-5,"y":-520,"width":250,"height":60},
+		{"id":"8eb819c81ee21ac4","type":"text","text":"Filtering water","x":875,"y":-520,"width":250,"height":60},
+		{"id":"6e51a89334473920","type":"text","text":"Mana Production","x":-10,"y":-222,"width":260,"height":69},
+		{"id":"b5115e719852f0dd","type":"text","text":"Mana Refinement","x":871,"y":-222,"width":259,"height":72},
+		{"id":"065c9b2de3619f2c","type":"text","text":"Early game","x":450,"y":-120,"width":250,"height":60},
+		{"id":"65da3b55799b3c29","type":"text","text":"Enderpearls","x":-130,"y":-1000,"width":250,"height":60},
+		{"id":"258543aa81417c8f","type":"text","text":"Redstone","x":751,"y":-780,"width":250,"height":60},
+		{"id":"6d854c2db424c5d5","type":"text","text":"Mob drops","x":120,"y":-780,"width":250,"height":60},
+		{"id":"f2f5e1447870c1b1","type":"text","text":"Thermal Expansion","x":-82,"y":-1500,"width":283,"height":75},
+		{"id":"c748d6355450895f","type":"text","text":"Botania","x":442,"y":-1500,"width":266,"height":74},
+		{"id":"99f29b12d4927e3e","type":"text","text":"Applied Energistrics 2","x":1380,"y":-1500,"width":289,"height":75},
+		{"id":"c5070b2bd090411b","type":"text","text":"Nuclear Craft","x":940,"y":-1499,"width":240,"height":74},
+		{"id":"5e56d530c6cf5d6f","type":"text","text":"Mana and Artifice","x":-640,"y":-1500,"width":283,"height":75},
+		{"id":"0e32abcf6644615f","x":-75,"y":-2180,"width":270,"height":63,"type":"text","text":"Signalum tier"},
+		{"id":"5e9dae11fc37cdc6","x":-75,"y":-1760,"width":270,"height":60,"type":"text","text":"Invar Tier"},
+		{"id":"0122f4751f904e17","x":-75,"y":-1980,"width":270,"height":60,"type":"text","text":"Electrum Tier"}
+	],
+	"edges":[
+		{"id":"98f4ebaff25ca161","fromNode":"6d854c2db424c5d5","fromSide":"left","toNode":"65da3b55799b3c29","toSide":"bottom"}
+	]
+}
